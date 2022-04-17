@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(158, 202, 241);
+}
+
+
+
+.indent{
+        text-indent:  25px;
+}
+
+.center-graphic{
+    margin: auto;
+    max-width: 1000px;
+}
+
